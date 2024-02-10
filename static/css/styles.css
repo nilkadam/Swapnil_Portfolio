@@ -1,0 +1,57 @@
+/* styles.css */
+
+/* Reset default browser styles */
+body, h1, h2, h3, h4, h5, h6, p, ul, ol, li {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #333; /* Dark background */
+    color: #fff; /* White text */
+    line-height: 1.6;
+}
+
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.header {
+    background-color: #ffcc00; /* Yellow header */
+    color: #333; /* Dark text */
+    padding: 20px;
+    text-align: center;
+    border-bottom: 2px solid #666; /* Dark border bottom */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Shadow effect */
+}
+
+.navbar {
+    background-color: #444; /* Dark navbar background */
+    padding: 10px 0;
+    text-align: center;
+}
+
+.navbar a {
+    color: #fff; /* White links */
+    text-decoration: none;
+    margin: 0 15px;
+    transition: color 0.3s ease; /* Smooth transition effect */
+}
+
+.navbar a:hover {
+    color: #ffcc00; /* Yellow hover color */
+}
+
+.content {
+    padding: 20px 0;
+}
+
+.footer {
+    background-color: #222; /* Dark footer background */
+    color: #ccc; /* Light text */
+    padding: 10px 0;
+    text-align: center;
+}
