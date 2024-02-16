@@ -1,2 +1,2 @@
 # Swapnil_Portfolio
-This is Swapnil Kadam Portfolio repository.
+Contains webpage showing Swapnil Kadam Portfolio.
